@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a portfolio website to showcase my web development skills and projects.<br>👯 I’m looking to collaborate on open-source projects related to web development that can help me enhance my skills and knowledge.<br>🌱 I’m currently learning ReactJS and NodeJS to develop more dynamic and interactive web applications.<br>
+👯 I’m looking to collaborate on open-source projects related to web development that can help me enhance my skills and knowledge.<br>🌱 I’m currently learning ReactJS and NodeJS to develop more dynamic and interactive web applications.<br>
 
 
 ## 🌐 Socials:
